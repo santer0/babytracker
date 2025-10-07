@@ -14,7 +14,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "app.rork.babytrack-minimalist",
       "usesAppleSignIn": true,
       "usesIcloudStorage": true
@@ -55,4 +55,5 @@
       "typedRoutes": true
     }
   }
+
 }
